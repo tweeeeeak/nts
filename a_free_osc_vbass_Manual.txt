@@ -2,7 +2,7 @@ Introducing... the “Volca Bass” Oscillator for Korg Nutekt NTS-1, by Tweeeee
 
 This Oscillator is free. Download link: https://github.com/tweeeeeak/nts/blob/master/a_free_osc_vbass.ntkdigunit
 
-Youtube introduction: https://youtu.be/wE8cbGawHDo
+Introduction and walk-through video: https://youtu.be/wE8cbGawHDo
 
 Copying the “architecture” of the oscillator section of the Volca Bass, includes 3 oscillators, each with on/off, saw/square waveform, and pitch control up to +/-1 octave. Includes also a slide function, octave selection (even with the ribbon), and a step sequencer (a whaaa?!) Yes, a step sequencer, with 16 steps for notes or rest, and slide selection per step. It features 3 memory slots for sequences, and a 4th group slot, that plays all the other 3 at the same time, each to its oscillator. 
 
