@@ -20,7 +20,7 @@ It also includes:
 ### Details:
 
 - Download: [j6_v201.ntkdigunit](https://github.com/tweeeeeak/nts/releases/download/j6.2.0/j6_v201.ntkdigunit)
-- Detailed instructions: 
+- Detailed instructions: [J6 Oscillator instructions](J6.md)
 - Introduction and Demo video: https://youtu.be/3PVx-NqOhfs
 
 # Proba-B
@@ -44,7 +44,7 @@ Extra features include:
 
 - Download: [proba-b_v210.ntkdigunit](https://github.com/tweeeeeak/nts/releases/download/proba-b.2.0/proba-b_v210.ntkdigunit)
 - Quick reference sheet: [Proba-b.2.10.Reference.Sheet.pdf](https://github.com/tweeeeeak/nts/releases/download/proba-b.2.0/Proba-b.2.10.Reference.Sheet.pdf)
-- Detailed instructions: 
+- Detailed instructions: [Proba-B Oscillator instructions](Proba-B.md)
 - Introduction and Demo video: https://youtu.be/CADbPm17Uhw
 
 # Volca Bass
@@ -62,7 +62,7 @@ It features **3 memory slots** for sequences, and a 4th group slot, that plays a
 ### Details:
 
 - Download: [a_free_osc_vbass.ntkdigunit](https://github.com/tweeeeeak/nts/releases/download/1.0.0/a_free_osc_vbass.ntkdigunit)
-- Detailed instructions: https://github.com/tweeeeeak/nts/releases/download/1.0.0/a_free_osc_vbass_Manual.txt
+- Detailed instructions: [Volca Bass Oscillator instructions](VolcaBass.md)
 - Introduction and Demo video: https://youtu.be/wE8cbGawHDo
 
 
