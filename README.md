@@ -1,6 +1,33 @@
 # NTS-1 Oscillators by Tweeeeeak!
 Free NTS oscillators and stuff.
 
+# ROAT
+
+ROAT is an **8-bit** experimental oscillator inspired by the Soma "Rumble of Ancient Times" synthesizer.
+
+[<img src="ROAT/roat_main_thumbnail.png" data-canonical-src="ROAT/roat_main_thumbnail.png" width="200" />](https://youtu.be/KpabCfeOfdk)
+
+It includes 4 oscillators that can be triggered independently, by pressing 4 different zones of the keyboard, or recording a step sequence.
+
+Combining oscillator activation with the different settings per oscillator (pitch, shape, LFO) and different combination algorithms, and adding randomization and chaos, gives you a wide range of sonic possibilities, from melodic to digital noise. 
+
+Settings per oscillator:
+- Pitch
+- 16 different waveshapes
+- LFO (for pitch or amplitude) with 8 different shapes
+- 16-step rhythmic sequence, syncable with external devices
+
+Additional features:
+- 3 oscillator combination diagrams with 6 different summing algorithms per node
+- 2 randomization algorithms
+
+### Details:
+
+- Download: [roat.ntkdigunit](https://github.com/tweeeeeak/nts/releases/download/roat.1.02.0/roat.ntkdigunit)
+- Detailed instructions and reference sheet: [ROAT Oscillator instructions](ROAT/ROAT.md)
+- Introduction video: [https://youtu.be/3PVx-NqOhfs](https://youtu.be/KpabCfeOfdk)
+- Full instructions video: https://youtu.be/4h0m3JB5GIc
+
 # J6
 
 J6 is a **chord player** oscillator and **sequencer**.
