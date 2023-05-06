@@ -3,7 +3,7 @@
 
 Introducing the “ROAT” Oscillator for Korg Nutekt NTS-1, by Tweeeeeak (https://www.youtube.com/channel/UC0-jZZfn5DIsHm-KicdFRkw).
 
-This Oscillator is free. Download link: https://github.com/tweeeeeak/nts/releases/download/roat.1.02.0/roat.ntkdigunit
+This Oscillator is free. __Download link__: https://github.com/tweeeeeak/nts/releases/download/roat.1.02.0/roat.ntkdigunit
 
 Youtube introduction: https://youtu.be/KpabCfeOfdk
 
