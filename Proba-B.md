@@ -10,7 +10,7 @@ https://github.com/tweeeeeak/nts/releases/download/2.0.0/proba-b_v210.ntkdigunit
 Introduction and walk-through video: https://youtu.be/CADbPm17Uhw
 
 Quick reference sheet (a must to be able to work with the multiple parameters this oscillator offers):
-https://github.com/tweeeeeak/nts/releases/download/2.0.0/Proba-b.2.10.Reference.Sheet.pdf
+[Proba-b.2.10.Reference.Sheet.pdf](https://github.com/tweeeeeak/nts/releases/download/proba-b.2.0/Proba-b.2.10.Reference.Sheet.pdf)
 
 ### Release notes:
 
