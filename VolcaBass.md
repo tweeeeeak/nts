@@ -2,7 +2,9 @@
 
 Introducing... the “Volca Bass” Oscillator for Korg Nutekt NTS-1, by Tweeeeeak (https://www.youtube.com/channel/UC0-jZZfn5DIsHm-KicdFRkw).
 
-This Oscillator is free. Download link: https://github.com/tweeeeeak/nts/blob/master/a_free_osc_vbass.ntkdigunit
+This Oscillator is free. Download links:
+- NTS1 original: https://github.com/tweeeeeak/nts/blob/master/a_free_osc_vbass.ntkdigunit
+- NTS1 mk II: https://github.com/tweeeeeak/nts/releases/download/ntsmk2.1.0.0/vbass.nts1mkiiunit
 
 Introduction and walk-through video: https://youtu.be/wE8cbGawHDo
 
