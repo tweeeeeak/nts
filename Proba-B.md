@@ -4,8 +4,9 @@ Introducing Proba-B, probability sequencer oscillator for Korg NTS-1, by Tweeeee
 
 Twitter: https://twitter.com/tweeeeeak
 
-This Oscillator is free. Download link:
-https://github.com/tweeeeeak/nts/releases/download/2.0.0/proba-b_v210.ntkdigunit
+This Oscillator is free. Download links:
+- NTS1 original: https://github.com/tweeeeeak/nts/releases/download/2.0.0/proba-b_v210.ntkdigunit
+- NTS1 mk II: https://github.com/tweeeeeak/nts/releases/download/ntsmk2.1.0.0/proba-b.nts1mkiiunit
 
 Introduction and walk-through video: https://youtu.be/CADbPm17Uhw
 
