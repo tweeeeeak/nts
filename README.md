@@ -73,7 +73,7 @@ Additional features:
 
 - Download:
   - NTS-1 original: [roat.ntkdigunit](https://github.com/tweeeeeak/nts/releases/download/roat.1.02.0/roat.ntkdigunit)
-  - NTS-1 mk II: [roat.nts1mkiiunit](https://github.com/tweeeeeak/nts/releases/download/ntsmk2.1.0.0/roat.nts1mkiiunit)
+  - NTS-1 mk II: [roat.nts1mkiiunit](https://github.com/tweeeeeak/nts/releases/download/roat.1.02.51/roat.nts1mkiiunit)
 - Detailed instructions and reference sheet: [ROAT Oscillator instructions](ROAT/ROAT.md)
 - Introduction video: [https://youtu.be/3PVx-NqOhfs](https://youtu.be/KpabCfeOfdk)
 - Full instructions video: https://youtu.be/4h0m3JB5GIc
