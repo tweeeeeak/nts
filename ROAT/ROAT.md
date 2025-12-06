@@ -7,9 +7,10 @@ This Oscillator is free. __Download links__:
 - NTS1 original: https://github.com/tweeeeeak/nts/releases/download/roat.2.01/roat201.ntkdigunit
 - NTS1 mk II: https://github.com/tweeeeeak/nts/releases/download/roat.2.01/roat201.nts1mkiiunit
 
-Youtube introduction: https://youtu.be/KpabCfeOfdk
-
-Youtube full instructions video: https://youtu.be/4h0m3JB5GIc
+Videos:
+- Youtube introduction: https://youtu.be/KpabCfeOfdk
+- Youtube full instructions video: https://youtu.be/4h0m3JB5GIc
+- Youtube version 2 updates video: https://youtu.be/1ZQDBElc6ZU
 
 ROAT is an 8-bit experimental oscillator inspired by the Soma "Rumble of Ancient Times" synthesizer (https://somasynths.com/roat/):
 
