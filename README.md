@@ -66,14 +66,16 @@ Settings per oscillator:
 - 16-step rhythmic sequence, syncable with external devices
 
 Additional features:
-- 3 oscillator combination diagrams with 6 different summing algorithms per node
+- 3 oscillator combination diagrams with 7 different summing algorithms per node (including FM)
 - 2 randomization algorithms
+- External audio processing (NTS-1 mk II only)
+- Chromatic play
 
 ### Details:
 
 - Download:
-  - NTS-1 original: [roat.ntkdigunit](https://github.com/tweeeeeak/nts/releases/download/roat.1.02.0/roat.ntkdigunit)
-  - NTS-1 mk II: [roat.nts1mkiiunit](https://github.com/tweeeeeak/nts/releases/download/roat.1.02.51/roat.nts1mkiiunit)
+  - NTS-1 original: [roat201.ntkdigunit](https://github.com/tweeeeeak/nts/releases/download/roat.2.01/roat201.ntkdigunit)
+  - NTS-1 mk II: [roat201.nts1mkiiunit](https://github.com/tweeeeeak/nts/releases/download/roat.2.01/roat201.nts1mkiiunit)
 - Detailed instructions and reference sheet: [ROAT Oscillator instructions](ROAT/ROAT.md)
 - Introduction video: [https://youtu.be/3PVx-NqOhfs](https://youtu.be/KpabCfeOfdk)
 - Full instructions video: https://youtu.be/4h0m3JB5GIc
