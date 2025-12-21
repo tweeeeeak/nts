@@ -1,6 +1,27 @@
 # NTS-1 Oscillators by Tweeeeeak!
 Free NTS oscillators and stuff. Now for NTS-1 mk II as well.
 
+# RoaR
+
+RoaR is a __very simple__ oscillator that __randomly generates__ digital __sounds__ and __sequences__, with a simple turn of a knob.
+
+[<img src="ROAT/mk1and2_v2.PNG" height="112.5" title="Available for both Mk1 and Mk2"  style="vertical-align:top"/>](https://youtu.be/KpabCfeOfdk)
+
+Each sound can be a simple __patch__ or a rhythmic (16 step) __sequence__.
+
+You can play simple, tuned and __playable__ sounds, or go **wild** with glichy, complex and __total random__ sounds.
+
+Rhythmic sequences can also by __synced__ to the ARP or SEQ, or external equipment.
+
+### Details:
+
+- Download:
+  - NTS1 original: [roar.ntkdigunit](https://github.com/tweeeeeak/nts/releases/download/roar.1.01/roar.ntkdigunit)
+  - NTS1 mk II: [roar.nts1mkiiunit](https://github.com/tweeeeeak/nts/releases/download/roar.1.01/roar.nts1mkiiunit)
+- Detailed (very simple) instructions: [RoaR Oscillator instructions](ROAT/ROAR.md)
+- Introduction video: 
+
+
 # J6
 
 J6 is a **chord player** oscillator and **sequencer**.
