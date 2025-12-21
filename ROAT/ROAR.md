@@ -6,7 +6,7 @@ This Oscillator is free. __Download links__:
 - NTS1 original: [roar.ntkdigunit](https://github.com/tweeeeeak/nts/releases/download/roar.1.01/roar.ntkdigunit)
 - NTS1 mk II: [roar.nts1mkiiunit](https://github.com/tweeeeeak/nts/releases/download/roar.1.01/roar.nts1mkiiunit)
 
-Youtube introduction: 
+Youtube introduction: https://youtu.be/vCKhyWSqCxs
 
 RoaR is an oscillator that randomly generates digital sounds and sequences, with a simple turn of a knob. Each sound can be a simple patch or a rhythmic (16 step) sequence. 
 
