@@ -28,7 +28,7 @@ and varies between 1 and 100).
 
 ### Oscillator architecture (ROAT oscillator)
 
-Under the hood, __RoaR__ is basically the ROAT oscillator, which itself is a recreation of the SOMA Rumble of Ancient Times synthesizer, and includes 4 oscillatores, each with 16 possible waveforms, independent detuning, LFO and rhythmic sequence, and combinable in more than 1000 ways.
+Under the hood, __RoaR__ is basically the [ROAT oscillator](ROAT.md), which itself is a recreation of the SOMA Rumble of Ancient Times synthesizer, and includes 4 oscillatores, each with 16 possible waveforms, independent detuning, LFO and rhythmic sequence, and combinable in more than 1000 ways.
 
-You can check it out and download (it's free) and try it out as well. It will allow you to manually change all parameters that are randomized in RoaR.
+You can [check it out](ROAT.md) and download (it's free) and try it out as well. It will allow you to manually change all parameters that are randomized in RoaR.
 
